@@ -1,4 +1,4 @@
-# **Project 3: Subreddit Classification**
+# **Subreddit Classification**
 
 ## Problem Statement
 
